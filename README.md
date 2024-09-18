@@ -90,13 +90,13 @@
 	        <!--p align="rigth">MINED -->
     <a href="#">INICIO</a>
     <a href="#">CONTACTAR</a>
-	<a href="https://www.nintendo.com/us/">TecPEREZ</a>
+	<a href="https://www.nintendo.com/us/">jeni</a>
     <a href=""></a>
   </div>
   <!-- cuerpo de la pagina -->
   <div class="row">`
     <div class="row__column side">
-      <h2>LA JENI ES MALA</h2>
+      <h2>la vida es bonita</h2>
       <p> pensar en nada  lo digo con potestad.</p>
     </div>
     <div class="row__column middle">
